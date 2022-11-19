@@ -5,7 +5,7 @@ public class ArmStrongNumberForLoop
 	public static void main(String[] args) 
 	{
 		//int num=372,number,temp,total=0;
-		int num=1631,number,temp,total=0;
+		int num=370,number,temp,total=0;
 		number=num;
 		for(;number!=0;number/=10)
 		{
